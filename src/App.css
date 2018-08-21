@@ -1,0 +1,28 @@
+.badge,.btn-danger{
+  float:right;
+}
+.badge{
+  margin-top:5px;
+  font-size: 10px;
+  margin-right: 5px;
+}
+.btn-danger{
+  border-radius:27px;
+  margin-right: 5px;
+  outline: none;
+}
+.child{
+  border:1px solid black;
+  padding-top:3px;
+}
+.forEdit{
+  border:none;
+}
+input[type='checkbox']{
+  margin-left:5px;
+}
+.form-control{
+  width:20%;
+  margin-bottom: 5px;
+  margin-top:20px;
+}
